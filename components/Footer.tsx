@@ -9,7 +9,6 @@ import { FaYoutube } from '@react-icons/all-files/fa/FaYoutube'
 import { FaZhihu } from '@react-icons/all-files/fa/FaZhihu'
 
 import * as config from '@/lib/config'
-import { useDarkMode } from '@/lib/use-dark-mode'
 
 import styles from './styles.module.css'
 

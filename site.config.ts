@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Mostafa Amine',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'www.mostafaamine.me',
   author: 'Briere Mostafa Amine',
 
   // open graph metadata (optional)
-  description: 'My blog',
+  description: 'My Website',
 
   // social usernames (optional)
   twitter: 'Briere_mostafa',
